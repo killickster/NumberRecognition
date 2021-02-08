@@ -1,0 +1,15 @@
+{
+  "name": "number_recognition_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ./app.js"
+  },
+  "author": "Micah Killick",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^6.0.4"
+  }
+}
